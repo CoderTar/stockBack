@@ -42,6 +42,7 @@ app.all("*", function (req, res, next) {
 // });
 
 
+// 测试git
 // jsonwebtoken用来生成token和解析token
 var varToken = require("./public/token")
 
